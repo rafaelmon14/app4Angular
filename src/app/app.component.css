@@ -1,0 +1,54 @@
+table {
+    align-items: center;
+    font-family: 'Franklin Gothic';
+}
+
+tr{
+    width: 25%;
+}
+
+th, td {
+    width: 25%;
+    border: 1px solid #000;
+    border-spacing: 0;
+    border-collapse: collapse;
+    padding: 0.3em;   
+}
+
+.titulos{
+    text-align: center;   
+    background: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium';
+    color: #fff;
+}
+
+.dominio{
+    color: rgb(9, 168, 231);
+}
+
+.subtitulos{
+    background: rgb(204, 200, 200);
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium';
+}
+
+.Costo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h1{
+    font-family: sans-serif;
+    color: rgb(228, 110, 13);
+    text-align: center;
+}
+
+h3{
+    font-family: 'Lucida Sans';
+    color: tomato;
+}
+
+.pie{
+    color: rgba(0, 68, 255, 0.822);
+}
+
